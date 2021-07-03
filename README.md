@@ -1,6 +1,6 @@
 # Aopa,Mudno! 👋
 Meu nome é Ryan, comecei a estudar programação aos 16 anos, no dia 1 de maio de 2021. Comecei por Python, mas logo mudei para a tríade do front-end e é oque pretendo seguir no momento. Vou adicionando meus minis projetos aqui hehe até!
-Caso queiram entrar num server do discord para estudar, ensinar e aprender a arte da programação juntos segue o convite abaixo!
+Caso queiram entrar num server do discord para estudar, ensinar e aprender a arte da programação juntos, segue o convite abaixo!
 
   ##
  
