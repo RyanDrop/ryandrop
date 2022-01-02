@@ -1,25 +1,23 @@
 # Aopa, Mundo! 👋
 
 Meu nome é Ryan, sou apaixonado por aprender, principalmente codar, comecei a estudar programação aos 16 anos, no dia 1 de maio de 2021. Comecei por Python, mas logo mudei para a tríade do front-end e é o que pretendo seguir no momento. Vou adicionando meus projetos aqui, espero que gostem!
-</br>
+
 </br>
 </br>
 
 <div align="center">
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300px" height="300px" >
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" >
 </div>
 
-</br>
-</br>
-</br>
+<br>
+<br>
+
 <h2 align="center">Meus contatos:</h2>
 <div align="center"> 
   <a href="https://www.instagram.com/ry4n_sos/" target="_blank"><img src="https://icongr.am/entypo/instagram.svg?size=40&color=currentColor" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ryan-nascimento-7204a4217/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor" target="_blank"></a>
 </div>
-<br>
-<br>
-<br>
+
 <h2 align="center">Minha Stack de Desenvolvimento</h2>
 <div align="center">
 <details open style="margin-bottom:10px">
