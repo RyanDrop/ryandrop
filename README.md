@@ -15,7 +15,7 @@ Meu nome é Ryan, sou apaixonado por aprender, principalmente codar, comecei a e
 <h2 align="center">Meus contatos:</h2>
 <div align="center"> 
   <a href="https://www.instagram.com/ry4n_sos/" target="_blank"><img src="https://icongr.am/entypo/instagram.svg?size=40&color=currentColor" target="_blank"></a>
- <a href="https://www.linkedin.com/in/ryan-nascimento-7204a4217/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/ryan-on/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor" target="_blank"></a>
 </div>
 
 <h2 align="center">Minha Stack de Desenvolvimento</h2>
