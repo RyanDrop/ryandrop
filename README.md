@@ -18,7 +18,7 @@ Tenho especial interesse em arquitetura de software, sistemas distribuídos e ar
     alt="Histórico de contribuições"
     width="72%"
     align="middle"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyanDrop&theme=github_dark&exclude=html,css,scss"
     alt="Linguagens utilizadas nos commits"
     width="24%"
