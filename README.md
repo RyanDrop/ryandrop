@@ -1,6 +1,14 @@
 # Aopa, Mundo! 👋
 
-Meu nome é Ryan, sou apaixonado por aprender, principalmente codar, comecei a estudar programação aos 16 anos, no dia 1 de maio de 2021. Comecei por Python, mas logo mudei para a tríade do front-end e é o que pretendo seguir no momento. Vou adicionando meus projetos aqui, espero que gostem!
+**Desenvolvedor de Sistemas Sênior | Angular · TypeScript · Go · Inteligência Artificial Generativa**
+
+Sou desenvolvedor de software, com foco na construção e evolução de aplicações corporativas de grande porte.
+
+Minha trajetória começou no desenvolvimento frontend, onde construí uma base sólida em Angular e TypeScript. Com o tempo, ampliei minha atuação para o desenvolvimento backend com Go (Golang), microserviços, integrações entre sistemas e soluções baseadas em Inteligência Artificial.
+
+Atualmente, atuo em diferentes camadas do desenvolvimento de software, combinando minha experiência em frontend com engenharia backend, IA Generativa e uma participação crescente em infraestrutura, DevOps e operação de aplicações.
+
+Tenho especial interesse em arquitetura de software, sistemas distribuídos e arquiteturas orientadas a eventos, buscando desenvolver soluções cada vez mais escaláveis, resilientes e de fácil manutenção.
 
 # Stats
 
