@@ -10,9 +10,21 @@ Atualmente, atuo em diferentes camadas do desenvolvimento de software, combinand
 
 Tenho especial interesse em arquitetura de software, sistemas distribuídos e arquiteturas orientadas a eventos, buscando desenvolver soluções cada vez mais escaláveis, resilientes e de fácil manutenção.
 
-# Stats
+<h2>📊 Atividade no GitHub</h2>
 
-<div>
-<img align="rigth" alt="Ryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryandrop&show_icons=false&theme=midnight-purple&rank_icon=github&line_height=27"/>
-<img align="left" alt="Ryan's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandrop&langs_count=3&hide=scss,css,html&theme=midnight-purple&line_height=28"/>
-</div>
+<p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDrop&theme=github_dark"
+    alt="Histórico de contribuições"
+    width="72%"
+    align="middle"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyanDrop&theme=github_dark&exclude=html,css,scss"
+    alt="Linguagens utilizadas nos commits"
+    width="24%"
+    align="middle"
+  />
+</p>
+
+
+
