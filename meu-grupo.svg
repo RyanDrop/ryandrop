@@ -1,21 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="932" height="466" viewBox="0 0 932 466" role="img" aria-label="Meu grupo: Angular, TypeScript, RxJS, Go, LLM · RAG, Python, Node.js, Java, Testes, Kubernetes, Nx, Electron">
+<svg xmlns="http://www.w3.org/2000/svg" width="908" height="410" viewBox="0 0 908 410" role="img" aria-label="Meu grupo: Angular, TypeScript, RxJS, Go, LLM · RAG, Python, Node.js, Java, Testes, Kubernetes, Nx, Electron">
   <title>Meu grupo</title>
   <style>
     .n { font: 700 15px Arial, Helvetica, sans-serif; fill: #000080; text-anchor: middle; }
     .r { font: 12px Verdana, Arial, sans-serif; fill: #222; text-anchor: middle; }
     .s { font: 11px Verdana, Arial, sans-serif; fill: #1d5fd6; text-anchor: middle; }
-    .h { font: 700 24px Arial, Helvetica, sans-serif; fill: #000080; text-decoration: underline; }
     .b { animation: bob 2.4s steps(2, jump-none) infinite; }
     @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
     @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
   </style>
   <defs>
-    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#fdf8e8"/><rect x="6" y="6" width="2" height="2" fill="#efe6c8"/></pattern>
     <linearGradient id="rainbow"><stop offset="0" stop-color="#ff0000"/><stop offset=".2" stop-color="#ff9900"/><stop offset=".4" stop-color="#ffee00"/><stop offset=".6" stop-color="#22cc22"/><stop offset=".8" stop-color="#0099ff"/><stop offset="1" stop-color="#9900ff"/></linearGradient>
   </defs>
-  <rect width="932" height="466" fill="url(#dots)"/>
-  <text x="16" y="36" class="h">Meu grupo</text>
-  <g transform="translate(16 56)">
+  
+  <g transform="translate(4 4)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -24,7 +21,7 @@
     </g>
     <text x="70" y="128" class="n">Angular</text><text x="70" y="146" class="r">Cavaleiro dos</text><text x="70" y="161" class="r">componentes</text>
   </g>
-  <g transform="translate(168 56)">
+  <g transform="translate(156 4)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -33,7 +30,7 @@
     </g>
     <text x="70" y="128" class="n">TypeScript</text><text x="70" y="146" class="r">Herói tipado</text>
   </g>
-  <g transform="translate(320 56)">
+  <g transform="translate(308 4)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -42,7 +39,7 @@
     </g>
     <text x="70" y="128" class="n">RxJS</text><text x="70" y="146" class="r">Observador reativo</text>
   </g>
-  <g transform="translate(472 56)">
+  <g transform="translate(460 4)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -51,7 +48,7 @@
     </g>
     <text x="70" y="128" class="n">Go</text><text x="70" y="146" class="r">Velocista</text><text x="70" y="161" class="r">concorrente</text>
   </g>
-  <g transform="translate(624 56)">
+  <g transform="translate(612 4)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -60,7 +57,7 @@
     </g>
     <text x="70" y="128" class="n">LLM · RAG</text><text x="70" y="146" class="r">Mago das LLMs</text>
   </g>
-  <g transform="translate(776 56)">
+  <g transform="translate(764 4)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -69,7 +66,7 @@
     </g>
     <text x="70" y="128" class="n">Python</text><text x="70" y="146" class="r">Serpente da</text><text x="70" y="161" class="r">automação</text>
   </g>
-  <g transform="translate(16 254)">
+  <g transform="translate(4 202)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -78,7 +75,7 @@
     </g>
     <text x="70" y="128" class="n">Node.js</text><text x="70" y="146" class="r">Guardião do</text><text x="70" y="161" class="r">servidor</text><text x="70" y="176" class="s">Express · NestJS</text>
   </g>
-  <g transform="translate(168 254)">
+  <g transform="translate(156 202)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -87,7 +84,7 @@
     </g>
     <text x="70" y="128" class="n">Java</text><text x="70" y="146" class="r">Veterano robusto</text>
   </g>
-  <g transform="translate(320 254)">
+  <g transform="translate(308 202)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -96,7 +93,7 @@
     </g>
     <text x="70" y="128" class="n">Testes</text><text x="70" y="146" class="r">Megazord dos testes</text><text x="70" y="161" class="s">Playwright · Jest ·</text><text x="70" y="175" class="s">Jasmine · Karma</text>
   </g>
-  <g transform="translate(472 254)">
+  <g transform="translate(460 202)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -105,7 +102,7 @@
     </g>
     <text x="70" y="128" class="n">Kubernetes</text><text x="70" y="146" class="r">Timoneiro do</text><text x="70" y="161" class="r">cluster</text>
   </g>
-  <g transform="translate(624 254)">
+  <g transform="translate(612 202)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -114,7 +111,7 @@
     </g>
     <text x="70" y="128" class="n">Nx</text><text x="70" y="146" class="r">Arquiteto do</text><text x="70" y="161" class="r">monorepo</text>
   </g>
-  <g transform="translate(776 254)">
+  <g transform="translate(764 202)">
     <rect x="3" y="3" width="140" height="186" fill="#2a2a2a"/>
     <rect width="140" height="186" fill="#ffffff" stroke="#808080" stroke-width="1"/>
     <path d="M0.5 185.5V0.5H139.5" fill="none" stroke="#ffffff" stroke-width="1"/>
@@ -123,5 +120,5 @@
     </g>
     <text x="70" y="128" class="n">Electron</text><text x="70" y="146" class="r">Engenheiro do</text><text x="70" y="161" class="r">desktop</text>
   </g>
-  <rect x="16" y="452" width="900" height="6" fill="url(#rainbow)"/>
+  <rect x="4" y="402" width="900" height="6" fill="url(#rainbow)"/>
 </svg>
