@@ -10,6 +10,16 @@ Atualmente, atuo em diferentes camadas do desenvolvimento de software, combinand
 
 Tenho especial interesse em arquitetura de software, sistemas distribuídos e arquiteturas orientadas a eventos, buscando desenvolver soluções cada vez mais escaláveis, resilientes e de fácil manutenção.
 
+<h2>🎮 Minha stack</h2>
+
+<p align="center">
+  <img
+    src="./meu-grupo.svg"
+    alt="Meu grupo: Angular, TypeScript, RxJS, Go, LLM · RAG, Python, Node.js (Express, NestJS), Java, Testes (Playwright, Jest, Jasmine, Karma), Kubernetes, Nx e Electron"
+    width="100%"
+  />
+</p>
+
 <h2>📊 Atividade no GitHub</h2>
 
 <p>
@@ -25,6 +35,3 @@ Tenho especial interesse em arquitetura de software, sistemas distribuídos e ar
     align="middle"
   />
 </p>
-
-
-
