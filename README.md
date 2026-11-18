@@ -14,7 +14,7 @@ Tenho especial interesse em arquitetura de software, sistemas distribuídos e ar
 
 <p align="center">
   <img
-    src="./meu-grupo.svg"
+    src="./meu-grupo-v2.svg"
     alt="Meu grupo: Angular, TypeScript, RxJS, Go, LLM · RAG, Python, Node.js (Express, NestJS), Java, Testes (Playwright, Jest, Jasmine, Karma), Kubernetes, Nx e Electron"
     width="100%"
   />
